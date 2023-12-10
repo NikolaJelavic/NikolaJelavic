@@ -15,7 +15,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-vojvodjanin-darkviolet?style=flat&logo=Instagram&logoColor=white&link=https://www.linkedin.com/in/nikolajelavic/)](https://www.linkedin.com/in/nikolajelavic/)
 [![Mail Badge](https://img.shields.io/badge/-jelavicnikola@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jelavicnikola@gmail.com)](mailto:jelavicnikola@gmail.com)
 
-<img src="https://res.cloudinary.com/dapwniqqn/image/upload/v1702237115/nikola_jelavic_xiclvw.jpg" alt="nikola jelavic" width="300" height="400" align="right" display="inline" >
+<img src="https://res.cloudinary.com/dapwniqqn/image/upload/v1702247747/Portfolio/NikolaJelavicTransparentJPG_jaonxh.jpg" alt="nikola jelavic" width="300" height="400" align="right" display="inline" >
 
 <h3 >I'm interested in long-term positions or freelance challenges. <br> I'm available to work on your projects and bring your ideas to life.</h3>
 
