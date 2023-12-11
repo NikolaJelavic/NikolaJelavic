@@ -12,7 +12,7 @@
 </div>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Nikola&nbsp;Jelavic-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikolajelavic/)](https://www.linkedin.com/in/nikolajelavic/)
-[![Instagram Badge](https://img.shields.io/badge/-vojvodjanin-darkviolet?style=flat&logo=Instagram&logoColor=white&link=https://www.linkedin.com/in/nikolajelavic/)](https://www.linkedin.com/in/nikolajelavic/)
+[![Instagram Badge](https://img.shields.io/badge/-vojvodjanin-darkviolet?style=flat&logo=Instagram&logoColor=white&link=https://instagram.com/vojvodjanin)](https://www.instagram.com/vojvodjanin)
 [![Mail Badge](https://img.shields.io/badge/-jelavicnikola@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jelavicnikola@gmail.com)](mailto:jelavicnikola@gmail.com)
 
 <img src="https://res.cloudinary.com/dapwniqqn/image/upload/v1702247747/Portfolio/NikolaJelavicTransparentJPG_jaonxh.jpg" alt="nikola jelavic" width="300" height="400" align="right" display="inline" >
